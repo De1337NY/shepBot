@@ -1,0 +1,10 @@
+insults = ['shut up, nerd',
+          'OMG WE GET IT, YOU VAPE!',
+          'What is this jabronie even trying to say here?',
+          'GOOD FUCKING LORD, who invited this guy?',
+          'stop. just fucking stop.',
+          'What you’ve just said is one of the most insanely idiotic things I have ever heard. At no point in your rambling, incoherent message were you even close to anything that could be considered a rational thought. Everyone in this room is now dumber for having listened to it. I award you no points, and may God have mercy on your soul.',
+          'WHO SAYS THAT?!? Like who ACTUALLY SAYS that?',
+          'Wow....just wow.',
+          'Is this what people mean when they say "Gen Z Humor?"',
+          'You should read a book...probably a few.']
